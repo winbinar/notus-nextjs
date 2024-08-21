@@ -4,7 +4,7 @@
 
 ![Notus NextJS](https://github.com/creativetimofficial/public-assets/blob/master/notus-nextjs/notus-nextjs.jpg?raw=true)
 
-### A beautiful UI Kit and Admin for Tailwind CSS and NextJS.
+### A beautiful UI Kit and Admin for Tailwind CSS and NextJS. 
 
 Start your development with a Free Tailwind CSS and NextJS UI Kit and Admin. Let Notus NextJS amaze you with its cool features and build tools and get your project to a whole new level.
 
